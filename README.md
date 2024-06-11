@@ -29,7 +29,7 @@ This project is a simple client-server application built using C# and Windows Fo
 1- Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Project_Server_Client.git
+git clone https://github.com/Abdallah2A/Client-Server-TCP
 ```
 2- Open the project in Visual Studio.
 
