@@ -36,14 +36,20 @@ git clone https://github.com/Abdallah2A/Client-Server-TCP
 
 ## Running the Server
 1- Navigate to the Project_Server folder.
+
 2- Open Form1.cs in Visual Studio.
+
 3- Build and run the project.
+
 4- The server will start listening on 127.0.0.1:5000.
 
 ## Running the Client
 1- Navigate to the Project_Client folder.
+
 2- Open Form1.cs in Visual Studio.
+
 3- Build and run the project.
+
 4- The client will connect to the server at 127.0.0.1:5000.
 
 ## Usage
