@@ -22,6 +22,7 @@ This project is a simple client-server application built using C# and Windows Fo
 
 ## Prerequisites
 1- .NET Framework (4.8 or higher recommended)
+
 2- Visual Studio (or any other C# IDE)
 
 
